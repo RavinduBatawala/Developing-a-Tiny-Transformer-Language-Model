@@ -1,0 +1,7 @@
+# PyTorch is installed separately (CUDA build), see the README
+datasets
+numpy
+matplotlib
+tqdm
+ipykernel
+gradio
